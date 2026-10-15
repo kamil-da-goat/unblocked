@@ -148,3 +148,11 @@ body.dark .website-btn {
   display: flex;
   border-radius: 5px;
 }
+
+iframe {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
