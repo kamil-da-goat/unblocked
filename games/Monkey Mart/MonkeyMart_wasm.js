@@ -1,1 +1,0 @@
-Package size exceeded the configured limit of 50 MB. Try https://github.com/kamilgamer1/UGS-assets/tree/main/monkey mart v6.3 /MonkeyMart_wasm.js instead.
